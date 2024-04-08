@@ -1,0 +1,64 @@
+{
+    "referencia": "Juan 14:15",
+    "fuente": "Reyna Valera 1960",
+    "tema": "Guardar la Ley",
+    "texto": "Si me amáis, guardad mis mandamientos."
+},
+
+{
+    "referencia": "Juan 14:6",
+    "fuente": "Reyna Valera 1960",
+    "tema": "Jesús el camino",
+    "texto": "Jesús le dijo: Yo soy el camino, y la verdad, y la vida; nadie viene al Padre, sino por mí."
+},
+
+
+{
+    "referencia": "Marcos 8:34",
+    "fuente": "RVG",
+    "tema": "Llevar la cruz de Jesús",
+    "texto": "Y llamando a la multitud y a sus discípulos, les dijo: Si alguno quiere venir en pos de mí, niéguese a sí mismo, y tome su cruz, y sígame."
+},
+
+{
+    "referencia": "Mateo 5:16",
+    "fuente": "RVG",
+    "tema": "Somos la luz del mundo",
+    "texto": "Así alumbre vuestra luz delante de los hombres, para que vean vuestras buenas obras, y glorifiquen a vuestro Padre que está en el cielo."
+},
+
+{
+    "referencia": "Proverbios 12:1",
+    "fuente": "RVG",
+    "tema": "Instrucción para el sabio",
+    "texto": "El que ama la instrucción ama la sabiduría; mas el que aborrece la reprensión, es ignorante. "
+},
+
+{
+    "referencia": "1Pedro 2:9",
+    "fuente": "RVG",
+    "tema": "Un pueblo santo",
+    "texto": "Mas vosotros sois linaje escogido, real sacerdocio, nación santa, pueblo adquirido; para que anunciéis las virtudes de Aquel que os llamó de las tinieblas a su luz admirable."
+},
+
+{
+    "referencia": "Juan 3:16",
+    "fuente": "RVG",
+    "tema": "Al amor de Dios",
+    "texto": "Porque de tal manera amó Dios al mundo, que ha dado a su Hijo unigénito, para que todo aquel que en Él cree, no se pierda, mas tenga vida eterna. "
+},
+
+{
+    "referencia": "Éxodo 20:8-11",
+    "fuente": "RVG",
+    "tema": "Guarda del Sábado",
+    "texto": "Te acordarás del día sábado para santificarlo. Seis días trabajarás, y harás toda tu obra; pero el séptimo día es el sábado de Jehová tu Dios: no harás en él obra alguna, tú, ni tu hijo, ni tu hija, ni tu siervo, ni tu sierva, ni tu ganado, ni tu extranjero que está dentro de tus puertas. Porque en seis días hizo Jehová el cielo y la tierra, y el mar y todas las cosas que en ellos hay, y reposó en el séptimo día; por tanto, Jehová bendijo el día sábado y lo santificó. "
+},
+
+{
+    "referencia": "",
+    "fuente": "",
+    "tema": "",
+    "texto": ""
+}
+
