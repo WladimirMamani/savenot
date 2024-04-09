@@ -69,11 +69,11 @@ rutas.get('/consulta1/:fuente', async (req, res) => {
     }
 });
 
-//Consulta 2: Buscar 
-rutas.get('/consulta1/:fuente', async (req, res) => {
+//Consulta 2: Buscar por id
+rutas.get('/consulta2/:referencia', async (req, res) => {
     try{
-        const fuente= await NotaModel.find({fuente: req.params.fuente});
-        res.json(fuente)
+        const referencia = await NotaModel.find({referencia: req.params.referencia});
+        res.json(referencia)
     }
     catch (error)
     {
