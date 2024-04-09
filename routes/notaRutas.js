@@ -69,25 +69,37 @@ rutas.get('/consulta1/:fuente', async (req, res) => {
     }
 });
 
-//Consulta 2: Buscar por coincidencia de texto
+//Consulta 2: Buscar por coincidencia de texto en referencia
 rutas.get('/consulta2/:referencia', async (req, res) => {
     try {
-        const libroBiblia = await ProductoModel.find( { $referencia: { $search: req.params.referencia } } )
+        const libroBiblia = await NotaModel.find( { $text: { $search: req.params.referencia } } )
         res.json(libroBiblia);
     } catch (error) {
         res.status(404).json({mensaje: error.mensaje})
     }
 });
 
-
-rutas.get('/filtro-nombre/:texto', async (req, res) => {
+//Consulta 3: Búsqueda por id
+rutas.get('/consulta3/:id', async (req, res) => {
     try {
-        const producto = await ProductoModel.find( { $text: { $search: req.params.texto } } )
-        res.json(producto);
+        const citaId = await NotaModel.findOne({_id: req.params.id});
+        res.json(citaId);
     } catch (error) {
         res.status(404).json({mensaje: error.mensaje})
     }
 });
+
+//Consulta 4: Buscar por coincidencia de texto en texto
+rutas.get('/consulta4/:texto', async (req, res) => {
+    try {
+        const texto = await NotaModel.find( { $text: { $search: req.params.texto } } )
+        res.json(texto);
+    } catch (error) {
+        res.status(404).json({mensaje: error.mensaje})
+    }
+});
+
+
 
 
 
