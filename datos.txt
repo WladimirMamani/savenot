@@ -56,6 +56,26 @@
 },
 
 {
+    "referencia": "1JT 480",
+    "fuente": "EGW",
+    "tema": "Progreso continuo en los líderes",
+    "texto": "Los hombres que ocupan puestos de responsabilidad deben progresar continuamente. No deben aferrarse a los métodos antiguos y creer que no es necesario convertirse en obreros que empleen métodos científicos."
+}
+
+{
+    "referencia": "SC 279",
+    "fuente": "EGW",
+    "tema": "La mejor empresa",
+    "texto": "La empresa de ganar la vida eterna es superior a toda consideración terrenal."
+}
+{
+    "referencia": "SC 282",
+    "fuente": "EGW",
+    "tema": "Ejemplo de hermandad",
+    "texto": "Si queremos conducir a otros por la senda de la justicia, los principios de la justicia deben ser engarzados en nuestro propio corazón."
+}
+
+{
     "referencia": "",
     "fuente": "",
     "tema": "",

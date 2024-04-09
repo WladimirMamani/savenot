@@ -53,4 +53,38 @@ rutas.delete('/eliminar/:id', async (req, res) =>{
         res.status(400).json({mensaje: error.message});
     }
 });
+
+
+//CONSULTAS
+
+//Consulta 1: Buscar por nombre de FUENTE
+rutas.get('/consulta1/:fuente', async (req, res) => {
+    try{
+        const fuente= await NotaModel.find({fuente: req.params.fuente});
+        res.json(fuente)
+    }
+    catch (error)
+    {
+        res.status(404).json({mensaje: error.message});
+    }
+});
+
+//Consulta 2: Buscar 
+rutas.get('/consulta1/:fuente', async (req, res) => {
+    try{
+        const fuente= await NotaModel.find({fuente: req.params.fuente});
+        res.json(fuente)
+    }
+    catch (error)
+    {
+        res.status(404).json({mensaje: error.message});
+    }
+});
+
+
+
+
+
+
+
 module.exports = rutas;
