@@ -1,84 +1,119 @@
 {
+    "numRegistro": 1,
+    "fechaRegistro": "2023-12-20",
     "referencia": "Juan 14:15",
     "fuente": "Reyna Valera 1960",
     "tema": "Guardar la Ley",
-    "texto": "Si me amáis, guardad mis mandamientos."
+    "texto": "Si me amáis, guardad mis mandamientos.",
+    "etiqueta": "La Ley"
 },
 
 {
+    "numRegistro": 2,
+    "fechaRegistro": "2023-12-25",
     "referencia": "Juan 14:6",
     "fuente": "Reyna Valera 1960",
     "tema": "Jesús el camino",
-    "texto": "Jesús le dijo: Yo soy el camino, y la verdad, y la vida; nadie viene al Padre, sino por mí."
+    "texto": "Jesús le dijo: Yo soy el camino, y la verdad, y la vida; nadie viene al Padre, sino por mí.",
+    "etiqueta": "Esperanza"
 },
 
 
 {
+    "numRegistro": 3,
+    "fechaRegistro": "2024-01-10",
     "referencia": "Marcos 8:34",
     "fuente": "RVG",
     "tema": "Llevar la cruz de Jesús",
-    "texto": "Y llamando a la multitud y a sus discípulos, les dijo: Si alguno quiere venir en pos de mí, niéguese a sí mismo, y tome su cruz, y sígame."
+    "texto": "Y llamando a la multitud y a sus discípulos, les dijo: Si alguno quiere venir en pos de mí, niéguese a sí mismo, y tome su cruz, y sígame.",
+    "etiqueta": "Esperanza"
 },
 
 {
+    "numRegistro": 4,
+    "fechaRegistro": "2024-01-14",
     "referencia": "Mateo 5:16",
     "fuente": "RVG",
     "tema": "Somos la luz del mundo",
-    "texto": "Así alumbre vuestra luz delante de los hombres, para que vean vuestras buenas obras, y glorifiquen a vuestro Padre que está en el cielo."
+    "texto": "Así alumbre vuestra luz delante de los hombres, para que vean vuestras buenas obras, y glorifiquen a vuestro Padre que está en el cielo.",
+    "etiqueta": "Buenas obras"
 },
 
 {
+    "numRegistro": 5,
+    "fechaRegistro": "2024-02-16",
     "referencia": "Proverbios 12:1",
     "fuente": "RVG",
     "tema": "Instrucción para el sabio",
-    "texto": "El que ama la instrucción ama la sabiduría; mas el que aborrece la reprensión, es ignorante. "
+    "texto": "El que ama la instrucción ama la sabiduría; mas el que aborrece la reprensión, es ignorante. ",
+    "etiqueta": "Consejo"
 },
 
 {
+    "numRegistro": 6,
+    "fechaRegistro": "2024-02-25",
     "referencia": "1Pedro 2:9",
     "fuente": "RVG",
     "tema": "Un pueblo santo",
-    "texto": "Mas vosotros sois linaje escogido, real sacerdocio, nación santa, pueblo adquirido; para que anunciéis las virtudes de Aquel que os llamó de las tinieblas a su luz admirable."
+    "texto": "Mas vosotros sois linaje escogido, real sacerdocio, nación santa, pueblo adquirido; para que anunciéis las virtudes de Aquel que os llamó de las tinieblas a su luz admirable.",
+    "etiqueta": "Linaje"
 },
 
 {
+    "numRegistro": 7,
+    "fechaRegistro": "2024-02-25",
     "referencia": "Juan 3:16",
     "fuente": "RVG",
     "tema": "Al amor de Dios",
-    "texto": "Porque de tal manera amó Dios al mundo, que ha dado a su Hijo unigénito, para que todo aquel que en Él cree, no se pierda, mas tenga vida eterna. "
+    "texto": "Porque de tal manera amó Dios al mundo, que ha dado a su Hijo unigénito, para que todo aquel que en Él cree, no se pierda, mas tenga vida eterna. ",
+    "etiqueta": "Esperanza"
 },
 
 {
+    "numRegistro": 8,
+    "fechaRegistro": "2024-02-25",
     "referencia": "Éxodo 20:8-11",
     "fuente": "RVG",
     "tema": "Guarda del Sábado",
-    "texto": "Te acordarás del día sábado para santificarlo. Seis días trabajarás, y harás toda tu obra; pero el séptimo día es el sábado de Jehová tu Dios: no harás en él obra alguna, tú, ni tu hijo, ni tu hija, ni tu siervo, ni tu sierva, ni tu ganado, ni tu extranjero que está dentro de tus puertas. Porque en seis días hizo Jehová el cielo y la tierra, y el mar y todas las cosas que en ellos hay, y reposó en el séptimo día; por tanto, Jehová bendijo el día sábado y lo santificó. "
+    "texto": "Te acordarás del día sábado para santificarlo. Seis días trabajarás, y harás toda tu obra; pero el séptimo día es el sábado de Jehová tu Dios: no harás en él obra alguna, tú, ni tu hijo, ni tu hija, ni tu siervo, ni tu sierva, ni tu ganado, ni tu extranjero que está dentro de tus puertas. Porque en seis días hizo Jehová el cielo y la tierra, y el mar y todas las cosas que en ellos hay, y reposó en el séptimo día; por tanto, Jehová bendijo el día sábado y lo santificó. ",
+    "etiqueta": "Sábado"
 },
 
 {
+    "numRegistro": 9,
+    "fechaRegistro": "2024-03-19",
     "referencia": "1JT 480",
     "fuente": "EGW",
     "tema": "Progreso continuo en los líderes",
-    "texto": "Los hombres que ocupan puestos de responsabilidad deben progresar continuamente. No deben aferrarse a los métodos antiguos y creer que no es necesario convertirse en obreros que empleen métodos científicos."
+    "texto": "Los hombres que ocupan puestos de responsabilidad deben progresar continuamente. No deben aferrarse a los métodos antiguos y creer que no es necesario convertirse en obreros que empleen métodos científicos.",
+    "etiqueta": "Responsabilidad"
 }
 
 {
+    "numRegistro": 10,
+    "fechaRegistro": "2024-03-19",
     "referencia": "SC 279",
     "fuente": "EGW",
     "tema": "La mejor empresa",
-    "texto": "La empresa de ganar la vida eterna es superior a toda consideración terrenal."
+    "texto": "La empresa de ganar la vida eterna es superior a toda consideración terrenal.",
+    "etiqueta": "Vida Eterna"
 }
 {
+    "numRegistro": 11,
+    "fechaRegistro": "2024-03-19",
     "referencia": "SC 282",
     "fuente": "EGW",
     "tema": "Ejemplo de hermandad",
-    "texto": "Si queremos conducir a otros por la senda de la justicia, los principios de la justicia deben ser engarzados en nuestro propio corazón."
+    "texto": "Si queremos conducir a otros por la senda de la justicia, los principios de la justicia deben ser engarzados en nuestro propio corazón.",
+    "etiqueta": "Esperanza"
 }
 
 {
+    "numRegistro": 12,
     "referencia": "",
     "fuente": "",
     "tema": "",
-    "texto": ""
+    "texto": "",
+    "etiqueta": ""
 }
 

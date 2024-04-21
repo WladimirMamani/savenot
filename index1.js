@@ -6,7 +6,7 @@ require('dotenv').config();
 
 //importar rutas
 const authRutas = require('./routes/authRutas');
-const productosRutas = require('./routes/productoRutas');
+const notasRutas = require('./routes/notaRutas');
 const session = require('express-session');
 
 //configuraciones
@@ -52,7 +52,7 @@ const autenticar =  async (req, res, next) =>{
 
 
 app.use('/auth', authRutas);
-// app.use('/ruta-producto',autenticar, productosRutas)
+app.use('/ruta-nota',autenticar, notasRutas)
 
-app.use('/ruta-producto',productosRutas)
+// app.use('/ruta-nota',notasRutas)
 
